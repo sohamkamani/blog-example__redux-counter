@@ -2,3 +2,21 @@ html, body {
   margin : 0;
   padding: 0;
 }
+
+#counter-display {
+  height: 50px;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  font-size: 2em;
+}
+
+#counter-increment, #counter-decrement {
+  height: 50px;
+  width: 50px;
+  font-size: 1.5em;
+  text-align: center;
+  background: lightsteelblue;
+  border-radius: 50%;
+  margin: 5px;
+}
